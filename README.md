@@ -8,7 +8,9 @@ DivideAi | Não deixe a faculdade atrapalhar toda sua vida!
  - João Trautwein | https://github.com/joaogntspfc
 
  *DivideAí*
+ 
  Um sistema de Gestão para Repúblicas de Estudantes
+ 
  Este sistema seria um aplicativo simples para ajudar estudantes que moram juntos a organizar tarefas domésticas, despesas compartilhadas e comunicação.
 
 Documentos:
